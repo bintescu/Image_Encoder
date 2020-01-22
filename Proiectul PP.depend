@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563975233 source:c:\users\valhalla\desktop\proiectul pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1564167305 source:c:\users\valhalla\desktop\desktop\joaca cu imagini bmp\proiectul pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
